@@ -1,0 +1,22 @@
+div.p1
+   {width: 10rem;
+   	padding: 1rem;
+	margin:auto;
+    text-align: center;
+    }
+div.p2
+{font-family:aeial;
+color:#F0FFFF;
+font-size: 10px;
+width:auto;
+padding: 2.5rem;}
+div.tu
+{
+	padding: 2rem;
+	float: left;
+}
+div.tu2
+{
+	padding: 2rem;
+	float: right;
+}
