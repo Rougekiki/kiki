@@ -38,6 +38,7 @@ div.po{width: 100%
 	background:url(img/1.png) 0.8rem 0.7rem no-repeat;
 	width: 100%;
 	background-color: #fff;
+	font-size: 1.5rem;
 	height: 5rem;
 	border: none;
 	outline: none;
@@ -51,6 +52,7 @@ div.pwd{width: 100%;
 	background:url(img/2.png)0.8rem 0.7rem no-repeat;
     width: 100%;
     background-color: #fff;
+    font-size: 1.5rem;
 	height: 5rem;
 	border: none;
 	outline: none;
